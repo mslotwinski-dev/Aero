@@ -1,3 +1,6 @@
+<img src="public/readme_icon.png" />
+
+
 Todo:
 
 Komunikacja z wykorzystaniem TCP IP, websocketów, api, baz danych, gin etc.
